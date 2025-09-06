@@ -28,7 +28,7 @@ pip install requests pillow
 1. Clone or download this repository.
 2. Run the script:
    ```bash
-   python wordpress-auto.py
+   python wordpress-automation.py
    ```
 3. Enter your WordPress site URL, username, and password.
 4. Choose a download folder (optional).
